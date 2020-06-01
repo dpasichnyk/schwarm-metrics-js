@@ -1,0 +1,22 @@
+{
+  "name": "@schwarm/metrics",
+  "version": "0.0.1",
+  "description": "Library for sending metrics to the schwarm metrics system (https://metrics.schwarm.io)",
+  "main": "lib/schwarm_metrics",
+  "repository": "https://github.com/dpasechnik/schwarm-metrics-js",
+  "author": "Dmytro Pasichnyk",
+  "private": false,
+  "license": "BSD-2-Clause",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-jest": "^22.6.4",
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
