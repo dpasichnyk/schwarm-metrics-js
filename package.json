@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Library for sending metrics to the schwarm metrics system (https://metrics.schwarm.io)",
   "main": "lib/schwarm_metrics",
-  "repository": "https://github.com/dpasechnik/schwarm-metrics-js",
+  "repository": "https://github.com/dpasichnyk/schwarm-metrics-js",
   "author": "Dmytro Pasichnyk",
   "private": false,
   "license": "BSD-2-Clause",

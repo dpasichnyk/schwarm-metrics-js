@@ -2,16 +2,12 @@
 
 A package for sending metrics to Logstash / Elasticsearch.
 
-A similar gem for Ruby can be found here: https://github.com/preisanalytics/schwarm-metrics
-
-This JavaScript version has a simpler configuration behaviour compared to the Ruby gem.
-
 ## Installation
 
 Add this to your `package.json`:
 
     "dependencies": {
-      "schwarm-metrics-js": "https://YOUR_TOKEN:x-oauth-basic@github.com/preisanalytics/schwarm-metrics-js#v0.3.0"
+      "schwarm-metrics-js": "https://YOUR_TOKEN:x-oauth-basic@github.com/dpasichnyk/schwarm-metrics-js#v0.0.1"
     }
 
 ## Metrics on Kubernetes
